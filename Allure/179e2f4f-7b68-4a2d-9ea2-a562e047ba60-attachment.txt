@@ -1,0 +1,1 @@
+{"detail":{"reason":"User could not be assigned to company with id: 6. Because it is not active"}}

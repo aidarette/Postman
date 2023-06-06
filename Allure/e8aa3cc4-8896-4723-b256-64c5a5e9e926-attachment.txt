@@ -1,0 +1,1 @@
+{"detail":[{"loc":["body","login"],"msg":"ensure this value has at least 3 characters","type":"value_error.any_str.min_length","ctx":{"limit_value":3}}]}

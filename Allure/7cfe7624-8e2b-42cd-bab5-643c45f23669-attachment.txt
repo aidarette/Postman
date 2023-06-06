@@ -1,0 +1,1 @@
+{"detail":[{"loc":["body",46],"msg":"Expecting value: line 3 column 16 (char 46)","type":"value_error.jsondecode","ctx":{"msg":"Expecting value","doc":"{\r\n  \"first_name\": \"Pifagor\",\r\n  \"last_name\": ,\r\n  \"company_id\": 3\r\n}","pos":46,"lineno":3,"colno":16}}]}

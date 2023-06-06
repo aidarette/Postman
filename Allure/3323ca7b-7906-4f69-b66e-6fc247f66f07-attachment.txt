@@ -1,0 +1,1 @@
+{"data":[{"company_id":4,"company_name":"Nord","company_address":"3287 Denise Mountain Apt. 963","company_status":"BANKRUPT"},{"company_id":7,"company_name":"Xiaomi","company_address":"Port Valeriefurt, HI 15914","company_status":"BANKRUPT"}],"meta":{"limit":3,"offset":0,"total":2}}

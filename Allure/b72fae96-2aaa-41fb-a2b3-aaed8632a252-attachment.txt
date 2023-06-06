@@ -1,0 +1,38 @@
+let schema = {
+    "type": "object",
+    "properties": {
+        "detail": {
+            "type": "array",
+            "items":
+            {
+                "type": "object",
+                "properties": {
+                    "loc": {
+                        "type": "array",
+                        "items": {
+                            "type": [
+                                "string",
+                                "integer"
+                            ]
+                        }
+                    },
+                    "msg": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "loc",
+                    "msg",
+                    "type"
+                ]
+            }
+
+        }
+    },
+    "required": [
+        "detail"
+    ]
+};
+pm.test('Schema is valid', function() {
+pm.response.to.have.jsonSchema(schema);
+});

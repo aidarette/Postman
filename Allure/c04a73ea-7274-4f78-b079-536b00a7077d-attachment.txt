@@ -1,0 +1,1 @@
+{"detail":[{"loc":["query","status"],"msg":"value is not a valid enumeration member; permitted: 'ACTIVE', 'BANKRUPT', 'CLOSED'","type":"type_error.enum","ctx":{"enum_values":["ACTIVE","BANKRUPT","CLOSED"]}}]}

@@ -1,0 +1,1 @@
+{"data":[{"company_id":6,"company_name":"BitcoinCorp","company_address":"85958 Cindy Wall","company_status":"CLOSED"}],"meta":{"limit":1,"offset":1,"total":2}}
